@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on it
 - 📫 you can reach me by my email nkwendenganderayan@gmail.com 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 fleau-237/fleau-237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
