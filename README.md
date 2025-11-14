@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fleau-237
 - 👀 I’m interested in programmation 
-- 🌱 I’m currently learning c proamming,and wed développement 
+- 🌱 I’m currently learning C,C++,JAVA,PYTHON proamming,and wed développement 
 - 💞️ I’m looking to collaborate on it
 - 📫 you can reach me by my email nkwendenganderayan@gmail.com 
 - 😄 Pronouns: ...
